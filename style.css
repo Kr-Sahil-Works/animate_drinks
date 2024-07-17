@@ -52,13 +52,13 @@ body {
 
     background: 
         var(--url) var(--left),
-        url(./images/soda_can.png) 0 0 ;
+        url(./images/mockup.png) 0 0 ;
     background-size: auto 100%;
     width: 280px;
     /* height: 400px; */ 
     aspect-ratio: 2/4.1;
     background-blend-mode:multiply ;
-    mask-image: url(./images/soda_can.png);
+    mask-image: url(./images/mockup.png);
     mask-size: auto 100%;
     transition: 1.4s;
     position: absolute;
