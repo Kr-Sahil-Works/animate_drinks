@@ -78,6 +78,7 @@ filter: drop-shadow(0px 0px 10px #000000);
         }
 .product:hover > .btnpp{
     
+<<<<<<< HEAD
     opacity: 100%;
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -89,6 +90,16 @@ filter: drop-shadow(0px 0px 10px #000000);
     transition: 5s ease-in;
 >>>>>>> parent of 5c0c752 (ok)
     
+=======
+    @keyframes fade-up{
+      0%{
+        opacity: 0;
+      }
+
+       100% {
+        opacity: 1;
+    }
+>>>>>>> parent of 1cc6c67 (ook)
    }  
 
 
