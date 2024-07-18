@@ -78,18 +78,18 @@ filter: drop-shadow(0px 0px 10px #000000);
         }
 
 @keyframes fade-in {
-  0%{
+  from{
     opacity: 1;
   }
-  100%{
-    opacity: 2;
+  to{
+    opacity: 0;
   }
 }
 
 
 .product:hover > .btnpp{
     
-    animation: fade-in 2s infinite alternate;
+    animation: fade-in 2s infinite;
     /* transition-delay: 10s ease-in; */
     
    }  
