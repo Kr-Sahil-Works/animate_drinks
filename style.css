@@ -88,40 +88,12 @@ filter: drop-shadow(0px 0px 10px #000000);
 }  
 
 .product:hover > .btnpp{
-<<<<<<< HEAD
-    
-<<<<<<< HEAD
+
     opacity: 100%;
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
     transition: 2s;
-=======
-    transition: 2.4s;
->>>>>>> parent of 9893cfd (ok)
-=======
-    transition: 5s ease-in;
->>>>>>> parent of 5c0c752 (ok)
-=======
-    transition-delay: 2s ease-in;
->>>>>>> parent of e9c44a5 (s)
-    
-=======
-    @keyframes fade-up{
-      0%{
-        opacity: 0;
-      }
-
-       100% {
-        opacity: 1;
-    }
->>>>>>> parent of 1cc6c67 (ook)
-   }  
-=======
-    animation: fade-up 2s;
 }
->>>>>>> parent of 5a99a76 (s)
-
+    
 
         .rock{
             position: absolute;
