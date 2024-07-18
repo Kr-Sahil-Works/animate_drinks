@@ -83,12 +83,12 @@ filter: drop-shadow(0px 0px 10px #000000);
           100% { opacity: 1; }
         }
 
-
+/* 
 .product:hover > .btnpp{
     
   animation: 10s ease 0s normal forwards 1 fadein;
     
-   }  
+   }   */
 
 
         .rock{
@@ -182,9 +182,7 @@ filter: drop-shadow(0px 0px 10px #000000);
              position: absolute;
              top:20px ;
              right: 44px;
-             
              opacity: 0;
-            
            }  
            
 
