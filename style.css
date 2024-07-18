@@ -76,7 +76,19 @@ filter: drop-shadow(0px 0px 10px #000000);
 
      
         }
+
+@keyframes fade-up{
+  0%{
+            opacity: 0;
+          }
+    
+  100% {
+            opacity: 1;
+        }
+}  
+
 .product:hover > .btnpp{
+<<<<<<< HEAD
     
 <<<<<<< HEAD
     opacity: 100%;
@@ -101,6 +113,10 @@ filter: drop-shadow(0px 0px 10px #000000);
     }
 >>>>>>> parent of 1cc6c67 (ook)
    }  
+=======
+    animation: fade-up 2s;
+}
+>>>>>>> parent of 5a99a76 (s)
 
 
         .rock{
